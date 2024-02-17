@@ -37,5 +37,6 @@ Check my work and portforlio at the Notion link here[↗](https://www.notion.so/
 - HUFS GNUVIL 2023 Algorithm Study
 - Web Design & Smart UI/UX Web Publisher Course
 - KITA Global E-commerce School
-</br>
 
+***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvaCJ&langs_count=10&layout=compact&theme=dark)](https://github.com/ElvaCJ)
