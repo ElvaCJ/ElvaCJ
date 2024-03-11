@@ -18,6 +18,8 @@ Check my work and portforlio at the Notion link here[↗](https://www.notion.so/
 ![CSS](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-823F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labe|Color=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=222222)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-027DFD?style=for-the-badge&logo=flutter)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=for-the-badge&logo=figma)
