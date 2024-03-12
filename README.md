@@ -7,6 +7,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+뱃지 모음 : https://github.com/Ileriayo/markdown-badges
 -->
 ## 🙋🏻‍♀️안녕하세요
 Hi, welcome to my page </br>
@@ -21,18 +22,23 @@ Check my work and portfolio at the Notion link here[↗](https://www.notion.so/C
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-027DFD?style=for-the-badge&logo=flutter)
+
+#### ⚒️Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Ps-001E36?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
+![VSCode](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </br>
 
 #### 🎓Education
-- Hankuk University of Foriegn Studies(Seoul) 2018.03~2024.02
-  
-  major : Spanish
-  
+- Hankuk University of Foriegn Studies(Seoul) 2018.03~2024.02 </br>
+  major : Spanish </br>
   double-major : Global Business and Technology
+  
 </br>
 
 #### ✨Experience
@@ -43,4 +49,5 @@ Check my work and portfolio at the Notion link here[↗](https://www.notion.so/C
 - KITA Global E-commerce School
 
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvaCJ&langs_count=10&layout=compact&theme=dark)](https://github.com/ElvaCJ)
+![CJ's GitHub Statics](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvaCJ&langs_count=8&layout=compact&theme=dark)](https://github.com/ElvaCJ)
