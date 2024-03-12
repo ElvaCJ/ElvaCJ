@@ -49,5 +49,5 @@ Check my work and portfolio at the Notion link here[↗](https://www.notion.so/C
 - KITA Global E-commerce School
 
 ***
-![CJ's GitHub Statics](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![CJ's GitHub Statics](https://github-readme-stats.vercel.app/api?username=ElvaCJ&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvaCJ&langs_count=8&layout=compact&theme=dark)](https://github.com/ElvaCJ)
