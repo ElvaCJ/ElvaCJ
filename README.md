@@ -11,7 +11,7 @@
 ## 🙋🏻‍♀️안녕하세요
 Hi, welcome to my page </br>
 I'm Chanjoo, Front-end developer from Seoul Korea🇰🇷 </br>
-Check my work and portforlio at the Notion link here[↗](https://www.notion.so/Career-c7d772d8bb5a4c43a7946938d92dae3e?pvs=4) </br>
+Check my work and portfolio at the Notion link here[↗](https://www.notion.so/Career-c7d772d8bb5a4c43a7946938d92dae3e?pvs=4) </br>
 ***
 #### 👩🏻‍💻Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
