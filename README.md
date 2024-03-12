@@ -28,8 +28,10 @@ Check my work and portfolio at the Notion link here[↗](https://www.notion.so/C
 </br>
 
 #### 🎓Education
-- Hankuk University of Foriegn Studies(Seoul) 2018.03~2024.02 
+- Hankuk University of Foriegn Studies(Seoul) 2018.03~2024.02
+  
   major : Spanish
+  
   double-major : Global Business and Technology
 </br>
 
