@@ -11,8 +11,9 @@
 -->
 ## 🙋🏻‍♀️안녕하세요
 Hi, welcome to my page </br>
-I'm Chanjoo, Front-end developer from Seoul Korea🇰🇷 </br>
-Check my work and portfolio at the Notion link here[↗](https://www.notion.so/Career-c7d772d8bb5a4c43a7946938d92dae3e?pvs=4) </br>
+I'm Chanjoo, based in Seoul Korea🇰🇷 </br>
+I enjoy self-development in many areas, covering programming, product-management, design, teaching etc.</br>
+Check my resume here at the Notion link[↗](https://cottony-diplodocus-f67.notion.site/c364e8f707e347afbd45cb49f15740b4?pvs=4) </br>
 ***
 #### 👩🏻‍💻Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -42,8 +43,8 @@ Check my work and portfolio at the Notion link here[↗](https://www.notion.so/C
 </br>
 
 #### ✨Experience
-- GDSC HUFS 23-24 - member _(current)_
-- Elice SW Engineer Track - 8th Runner _(current)_
+- GDSC HUFS 23-24 - member 
+- Elice SW Engineer Track - 8th Runner 
 - HUFS GNUVIL 2023 Algorithm Study
 - Web Design & Smart UI/UX Web Publisher Course
 - KITA Global E-commerce School
