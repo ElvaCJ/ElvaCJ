@@ -12,7 +12,7 @@
 ## 🙋🏻‍♀️안녕하세요
 Hi, welcome to my page </br>
 I'm Chanjoo, based in Seoul Korea🇰🇷 </br>
-I enjoy self-development in many areas, covering programming, product-management, design, teaching etc.</br>
+I enjoy self-development in many areas that cover programming, product-management, design, teaching etc.</br>
 Check my resume here at the Notion link[↗](https://cottony-diplodocus-f67.notion.site/c364e8f707e347afbd45cb49f15740b4?pvs=4) </br>
 ***
 #### 👩🏻‍💻Skills
